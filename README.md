@@ -54,3 +54,5 @@ Certaines pages sont prévues mais pas encore entièrement fonctionnelles.
 La documentation Javadoc est générée dans le dossier docs/.
 
 Pour consulter, ouvrez index.html dans un navigateur.
+NB: Le mot de passe de la page d'authentification est "admin" pour acceder à la page admin
+et "employe" pour acceder à un compte employe. cela est verifiable et modifiable dans le code.
